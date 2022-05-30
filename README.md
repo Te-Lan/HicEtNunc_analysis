@@ -1,6 +1,6 @@
 # Analytical Report: hic et nunc Dataset (NFT Marketplace)
 
-*A project from Data Science course in UAL Creative Computing Institute.*
+*A project from Data Science course(IU000132) in UAL Creative Computing Institute.*
 
 Two analyzing approaches are in this project.
 
