@@ -2,7 +2,7 @@
 
 *A project from Data Science course(IU000132) in UAL Creative Computing Institute.*
 
-Two analyzing approaches are in this project.
+Two analyzing approaches are taken in this project.
 
 ### Exploratory data analysis
 
